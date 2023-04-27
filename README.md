@@ -1,11 +1,13 @@
 # Welcome! 👋
 
-Here you'll find some projects I did during my undergrad years :)
+Here you'll find some projects I did during my undergrad years.
 
 ###  🧑‍🦱 whoami
 
-> Computer Science Student @ University of São Paulo
-Backend Software Engineer Intern @ Google 
+\> Computer Science Student @ University of São Paulo
+
+Backend Software Engineer Intern @ Google
+
 Backend Software Engineer @ iFood 
 
  
