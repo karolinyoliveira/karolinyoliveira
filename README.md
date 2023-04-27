@@ -4,7 +4,9 @@ Here you'll find some projects I did during my undergrad years :)
 
 ###  🧑‍🦱 whoami
 
-Backend Software Engineer @ iFood | Computer Science Student @ University of São Paulo
+> Computer Science Student @ University of São Paulo
+Backend Software Engineer Intern @ Google 
+Backend Software Engineer @ iFood 
 
  
 ### 💻 apt list --installed
