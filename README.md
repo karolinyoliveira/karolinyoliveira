@@ -4,7 +4,9 @@ Here you'll find some projects I did during my undergrad years.
 
 ###  🧑‍🦱 whoami
 
-\> Computer Science Student @ University of São Paulo
+\> Software Engineer @ Google
+
+Computer Scientist @ University of São Paulo
 
 Backend Software Engineer Intern @ Google
 
