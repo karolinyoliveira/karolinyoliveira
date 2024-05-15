@@ -2,7 +2,7 @@
 
 Here you'll find some projects I did during my undergrad years.
 
-###  🧑‍🦱 whoami
+### 🧑🏽‍🦱 whoami
 
 \> Software Engineer @ Google
 
